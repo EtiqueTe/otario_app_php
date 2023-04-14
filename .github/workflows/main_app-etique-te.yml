@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'app-etique-te'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB435397455F442AAEE8BDCA787D9776 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DD63985D5A794DB48F9F40594D5CD631 }}
           package: .
